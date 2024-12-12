@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">I'm RaZzzi</h1>
-<h3 align="center">Software Engineer by day, Data Scientist by night.</h3>
+<h3 align="center">Software Engineer by day,<br> Data Scientist by night.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razikhanzada&label=Profile%20views&color=0e75b6&style=flat" alt="razikhanzada" /> </p>
 
