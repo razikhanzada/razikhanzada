@@ -26,8 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razikhanzada&" alt="razikhanzada" /></p>
 
 <div align="center">
-  <img src="https://media.tumblr.com/tumblr_lj0lj95Mwc1qf5ydv.gif">
-  <br/>
+  <img src="https://media.tumblr.com/tumblr_lj0lj95Mwc1qf5ydv.gif" width="400"/>
 </div>
-
-
