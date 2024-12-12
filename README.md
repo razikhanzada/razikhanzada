@@ -1,7 +1,8 @@
 <!-- Matrix Animation -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/8darUV8MNfUAAAAd/jarvis-iron-man.gif" alt="GIF 1" >
+  <img src="https://media1.tenor.com/m/8darUV8MNfUAAAAd/jarvis-iron-man.gif">
   <br/>
+</div>
 
 <h1 align="center">I'm RaZzzi</h1>
 <h3 align="center">Software Engineer by day, Data Scientist by night.</h3>
@@ -24,7 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razikhanzada&" alt="razikhanzada" /></p>
 
-  <img src="https://media.tumblr.com/tumblr_lj0lj95Mwc1qf5ydv.gif" alt="GIF 2" >
+<div align="center">
+  <img src="https://media.tumblr.com/tumblr_lj0lj95Mwc1qf5ydv.gif">
   <br/>
 </div>
+
 
