@@ -1,6 +1,6 @@
-<h1 align="center">RaZzzi</h1>
+<h2 align="left">Hi there, I'm Razi </h2>
 
-<h3 align="center">Software Engineer by day,<br> Data Scientist by night.</h3>
+<h3 align="left">Welcome to my GitHub profile. I'm an undergraduate Software Engineering student with a strong passion for Data Science and Analytics. Computer Science and Mathematics have always been my favorite subjects, inspiring my journey into the world of technology and artificial intelligence.</h3>
 
 ###
 
