@@ -4,12 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://i.gifer.com/YPjT.gif"  />
-
-###
-
 <div style="border: 2px solid #e1e4e8; padding: 10px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
